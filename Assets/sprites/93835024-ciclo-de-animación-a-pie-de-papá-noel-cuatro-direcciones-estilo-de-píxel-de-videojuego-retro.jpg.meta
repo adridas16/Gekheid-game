@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 081d89aef51dd4a4f9a06d1eaec3083f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_0"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 975
+        width: 153
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391fcadbb107fe4fa4202b857b7b56a
+      internalID: 645925347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_1"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 980
+        width: 155
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18540672d88352041b911a3478d3ae6d
+      internalID: 1456611450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_2"
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 979
+        width: 129
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e262ec8fa7f2614cb6f25b9169925a2
+      internalID: 563628114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_3"
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 979
+        width: 131
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd2b346ceccdf449361617080a5124
+      internalID: 3144845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_4"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 662
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99105b355b5de41840397d08feccbb
+      internalID: -1641557373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_5"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 663
+        width: 144
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348dcdfc9eb0fff4f90d8e19f95569de
+      internalID: 1720508682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_6"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 663
+        width: 129
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d69b8bfd9e16429fa7920822b46aa
+      internalID: 1083201845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_7"
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 650
+        width: 127
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7bb6396a990b4099af1165f63716a
+      internalID: 1681836441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_8"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 141
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca537891644224891da3dde65f55fe
+      internalID: 1759243230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_9"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 348
+        width: 150
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b888148a010ce4e849f8994b07d2a9
+      internalID: -1518715898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_10"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 353
+        width: 126
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109324423f29cfe4085d02446ddaff36
+      internalID: -1293286536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_11"
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 351
+        width: 130
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9cc2ada112284fb6985221f81c75f
+      internalID: -2052641981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_12"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 139
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ee7ce5eccd6c42949e04dc25c696f
+      internalID: -1834759546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_13"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 33
+        width: 141
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73edcfafc46744e4a9a2836122b1b744
+      internalID: 1909543663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_14"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 33
+        width: 128
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7125a7bdd4177746a7fd254714280ad
+      internalID: 1560166781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_15"
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 33
+        width: 127
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b39214185f77842abe40fdd2500d9d
+      internalID: -1358673328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_9": -1518715898
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_13": 1909543663
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_0": 645925347
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_4": -1641557373
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_7": 1681836441
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_10": -1293286536
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_14": 1560166781
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_1": 1456611450
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_6": 1083201845
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_11": -2052641981
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_12": -1834759546
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_8": 1759243230
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_5": 1720508682
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_15": -1358673328
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_3": 3144845
+      "93835024-ciclo-de-animaci\xF3n-a-pie-de-pap\xE1-noel-cuatro-direcciones-estilo-de-p\xEDxel-de-videojuego-retro_2": 563628114
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
